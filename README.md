@@ -4,9 +4,13 @@ Disclaimer: These scripts are specifically intended for E300 FPGA miners. For ot
 
 Donations
 If you find this project helpful and would like to support its development, consider making a donation. Your support helps me to continue upgrading and maintaining these scripts:
-•	ETH (USDT): 0xFCb752D1dB8f0bD6207685cfaA7902a26A329f3D
-•	BTC: bc1qmplmjz482nl7nv8se9ku3eadl26zjdqmvf6wah
-•	USDT (ERC20 / Binance): 0xFCb752D1dB8f0bD6207685cfaA7902a26A329f3D
+
+ETH (USDT): 0xFCb752D1dB8f0bD6207685cfaA7902a26A329f3D
+
+BTC: bc1qmplmjz482nl7nv8se9ku3eadl26zjdqmvf6wah
+
+USDT (ERC20 / Binance): 0xFCb752D1dB8f0bD6207685cfaA7902a26A329f3D
+
 Thank you for your support!
 
 Quick Setup Instructions
