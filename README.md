@@ -9,7 +9,7 @@ ETH (USDT): 0xFCb752D1dB8f0bD6207685cfaA7902a26A329f3D
 
 BTC: bc1qmplmjz482nl7nv8se9ku3eadl26zjdqmvf6wah
 
-USDT (ERC20 / Binance): 0xFCb752D1dB8f0bD6207685cfaA7902a26A329f3D
+USDT (ERC20 / Binance): 0x4D0F0717Ba9623eeAD6a0429C1CB16F70CEa2F66
 
 Thank you for your support!
 
