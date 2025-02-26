@@ -276,6 +276,21 @@ echo "Stop command completed!"
 
 ---
 
+for the Script to push to your E300 address, you need to create a IP list within the same folder as your Stop / Start Script. 
+
+To create and edit ip_list.txt, use:
+
+nano (Yourfolder_where_script_is)/ip_list.txt
+Then, add the IPs of all your E300 devices (one IP per line):
+
+192.xxx
+
+192.xxx
+
+192.XXX
+
+Ensure Your Script Uses This File: Your script should be reading from this file to loop through each IP. If you're using something like while IFS= read -r ip, it will pull each IP address and use it in the API request.
+
 ## 🛠️ Troubleshooting
 - Verify network connection to **E300**.
 - Ensure **IP addresses** in `ip_list.txt` are correct.
